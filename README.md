@@ -1,4 +1,5 @@
-# Simple Interest Calculator
+
+This change was made as part of the GitHub final project assignment.# Simple Interest Calculator
 
 This project calculates Simple Interest using Principal,
 Rate of Interest and Time.
